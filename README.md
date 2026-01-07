@@ -78,3 +78,5 @@ This project is open-source and available for learning and personal use.
 ##OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/c7c0665f-f6ae-431b-8a30-885812edefc7)
+![Image](https://github.com/user-attachments/assets/2e9c3163-b796-4aab-a77a-4a10692fd516)
+![Image](https://github.com/user-attachments/assets/8095f757-0e99-4158-bb61-9678f6966701)
