@@ -73,3 +73,8 @@ No additional setup or dependencies are required.
 ## License
 
 This project is open-source and available for learning and personal use.
+
+
+##OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c7c0665f-f6ae-431b-8a30-885812edefc7)
